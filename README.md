@@ -14,6 +14,8 @@
     <span> &nbsp;&nbsp;&nbsp; &nbsp; </span>
 </div></h4>
 
+**Nothing to see here I'm just blatantly taking Onedark as a base structure to port my tartessos theme, nvim is just a bit big to configure manually initially**
+
 **Dark** and **Light** Themes for neovim >= 0.5 based on [Atom One Dark](https://github.com/atom/atom/tree/master/packages/one-dark-ui) & [Atom One Light](https://github.com/atom/atom/tree/master/packages/one-light-ui) theme written in lua with [TreeSitter](https://github.com/nvim-treesitter/nvim-treesitter) syntax highlight.
 
 *For Vim / Neovim < 0.5, prefer [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim)*
