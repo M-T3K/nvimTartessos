@@ -624,7 +624,7 @@ hl.plugins.mini = {
 
 hl.langs.c = {
     cInclude = colors.TextPreproc,
-    cStorageClass = colors.TextKeyword
+    cStorageClass = colors.TextKeyword,
     cTypedef = colors.TextPreproc,
     cDefine = colors.TextPreproc,
     cTSInclude = colors.TextPreproc,
