@@ -257,7 +257,7 @@ else
         TSFuncMacro = {fg = c.text_preprocessor, fmt = cfg.code_style.functions},
         TSInclude = colors.text_preprocessor,
         TSKeyword = {fg = c.keywords, fmt = cfg.code_style.keywords},
-        TSKeywordFunction = {fg = c.keywords = cfg.code_style.functions},
+        TSKeywordFunction = {fg = c.keywords, fmt = cfg.code_style.functions},
         TSKeywordOperator =  {fg = c.keywords, fmt = cfg.code_style.keywords},
         TSLabel = colors.TextPreproc,
         TSMethod = {fg = c.text_keywords, fmt = cfg.code_style.functions},
